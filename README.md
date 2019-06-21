@@ -1,5 +1,5 @@
 # Privacy Policy
-_Last modified: October 23, 2018_
+_Last modified: June 21, 2019_
 
 Simple Smart Apps built the Battery Temperature app as a ad-supported app. This SERVICE is provided by Simple Smart Apps at no cost and is intended for use as is.
 
